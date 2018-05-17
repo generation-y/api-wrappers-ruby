@@ -23,8 +23,8 @@ Gem::Specification.new do |s|
   s.email       = [""]
   s.homepage    = "https://github.com/swagger-api/swagger-codegen"
   s.summary     = "Moosend API Ruby Gem"
-  s.description = "TODO: Add a description"
-  # TODO uncommnet and update below with a proper license 
+  s.description = "Moosend API Ruby Wrapper"
+  # TODO uncommnet and update below with a proper license
   #s.license     = "Apache 2.0"
   s.required_ruby_version = ">= 1.9"
 
